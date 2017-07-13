@@ -1,6 +1,6 @@
 # Synopsis and Motivation
 
-This is an assignment that I did for the Princeton Neuroscience Institute. I spent about 6 hours on it. The goal is to block downsample an image using modal values. Efficiency is important and so the algorithm is parallelized using multiple CPU threads. The detailed description of the assignment is given in downsampling.pdf. Please read it first.
+This is an assignment that I did for the Princeton Neuroscience Institute back in 2014. I spent about 8 hours in total on it. The goal is to block downsample an image using modal values. Efficiency is important and so the algorithm is parallelized using multiple CPU threads. The detailed description of the assignment is given in downsampling.pdf. Please read it first.
 
 # Algorithm Description
 
